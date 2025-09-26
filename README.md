@@ -1,11 +1,17 @@
-# SOC Alert Triage Simulator (Demo)
+# soc-alert-triage
 
-**Purpose:** Demonstrates alert triage in a SOC environment using sample alerts.
+## Purpose
+Helps triage alerts in a simulated Security Operations Center environment.
 
-**Files:**
-- `triage.py` → simple Python script simulating alert triage
+## Features
+- Key features and functionalities of the project
 
-**Usage:**
-```bash
-python3 triage.py
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
 
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings
